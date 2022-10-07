@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java & React Native.**
 
-- 🤝You can view my projects at [Repositories](https://github.com/eriksh26?tab=repositories)
+- 🤝You can view my projects at [Repositories].(https://github.com/eriksh26?tab=repositories)
 
 - 👨‍💻 You can know me better by visiting [https://eriksh26.github.io/erikwebpage/](https://eriksh26.github.io/erikwebpage/)
 
