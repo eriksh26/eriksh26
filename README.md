@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Android development.**
 
-- 🌱 I’m currently learning **Java & React Native.**
+- 🌱 I’m currently learning **Haskell & React Native.**
 
 - 🤝You can view my projects at [Repositories.](https://github.com/eriksh26?tab=repositories)
 
-- 👨‍💻 You can know me better by visiting [https://eriksh26.github.io/erikwebpage/](https://eriksh26.github.io/erikwebpage/)
+- 👨‍💻 Know me better by visiting [https://eriksh26.github.io/erikwebpage/](https://eriksh26.github.io/erikwebpage/)
 
 - 💬 Ask me about **front-end development.**
 
-- 📫 How to reach me **erikshrestha5@gmail.com**
+- 📫 Reach me through **erikshrestha5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
