@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/e18i11" target="blank"><img src="https://img.shields.io/twitter/follow/e18i11?logo=twitter&style=for-the-badge" alt="e18i11" /></a> </p>
 
-- 🔭 I’m currently working on **Android development**
+- 🔭 I’m currently working on **Android development.**
 
-- 🌱 I’m currently learning **Java & React Native**
+- 🌱 I’m currently learning **Java & React Native.**
 
 - 🤝You can view my projects at [Repositories](https://github.com/eriksh26?tab=repositories)
 
 - 👨‍💻 You can know me better by visiting [https://eriksh26.github.io/erikwebpage/](https://eriksh26.github.io/erikwebpage/)
 
-- 💬 Ask me about **front-end development**
+- 💬 Ask me about **front-end development.**
 
 - 📫 How to reach me **erikshrestha5@gmail.com**
 
