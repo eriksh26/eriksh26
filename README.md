@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web development.**
 
-- 🌱 I’m currently learning **React & JavaScript.**
+- 🌱 I’m currently learning **Python & JavaScript.**
 
 - 🤝You can view my projects at [Repositories.](https://github.com/eriksh26?tab=repositories)
 
